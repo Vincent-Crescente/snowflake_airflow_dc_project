@@ -1,0 +1,7 @@
+airflow-home/logs/
+airflow-home/airflow.db
+airflow-home/dags/__pycache__/
+venv/
+airflow-home/webserver_config.py
+airflow-home/airflow-webserver.pid
+airflow-home/airflow.cfg
