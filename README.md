@@ -109,9 +109,8 @@ Seeing the query history after manually triggering my dag from the Airflow UI de
 ![description](./images/snowflake.png)
 
 This is the `Airflow UI`, with the dag name **snowflake_etl_pipeline** with the defined tasks (on the left) in the python script. Each can be clicked on and see it's logging. 
+After nine tries and utilizing the logs tab I was able to debug and get all tasks/sql scripts to run successfully (10 green squares).
 
 ![description](./images/airflow_ui.png)
-
-
 
 
